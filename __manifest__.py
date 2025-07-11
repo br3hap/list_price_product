@@ -6,7 +6,7 @@
     'author': 'Breithner Aquituari',
     'website': '',
     'category': '',
-    'depends': ['base', ],
+    'depends': ['base', 'product' ],
     'data': [
         
     ],
